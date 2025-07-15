@@ -14,14 +14,14 @@ Product and customer performance tracking
 
 Slicers for flexible filtering (Year, Region, Category)
 
-🧰 Tech Stack
+3. Tech Stack
 Power BI – For building the dashboard
 
 Excel/CSV – As data source
 
 DAX – For calculated fields and KPIs
 
-3.What & How You Solved
+4. What & How You Solved
 Cleaned and transformed raw sales data in Power BI
 
 Built relationships between datasets (Orders, Customers, Products)
@@ -30,7 +30,7 @@ Used DAX to calculate KPIs like profit margin, YoY growth
 
 Created an executive-friendly dashboard for quick insights
 
-4.Result / Impact
+5.Result / Impact
 Delivered a dashboard that helps stakeholders:
 
 Identify top-selling products
