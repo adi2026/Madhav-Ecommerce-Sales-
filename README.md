@@ -40,5 +40,5 @@ Slicers for flexible filtering (Year, Region, Category)
    Make data-driven inventory decisions
 
 6. Screenshot
-   Show what the Dashboard looks like :
+   Show what the Dashboard looks like:![Alt text]
    example:![Dashboard preview][https://github.com/adi2026/Madhav-Ecommerce-Sales-/blob/main/Madhav%20Ecommerce_sales_DashboardScreenshot%202025-07-16%20005305.png]
